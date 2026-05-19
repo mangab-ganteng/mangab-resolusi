@@ -1,2 +1,3 @@
 MEMBUAT RESOLUSI UNTUK TAHUN INI
 - ingin sedikit lebih maju dibanding orang lain
+- ingin membuat robot yang didalamnya bisa di masukkan AI
