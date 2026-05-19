@@ -1,0 +1,2 @@
+# mangab-resolusi
+membuat resolusi 
