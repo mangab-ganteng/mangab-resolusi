@@ -1,2 +1,2 @@
 # mangab-resolusi
-membuat resolusi 
+membuat resolusi untuk diri sendiri kedepan nya 
